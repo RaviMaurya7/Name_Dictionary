@@ -124,7 +124,7 @@ int main()
 {
     vector<string>keys={"Ravi Maurya", "Abhay Singh", "Aditya Wankhede","Gaurav Sachdeva",
                         "Vaibhav AgraWal" ,"Chetan Bhalotia", "Aditya Garg", "Aditya Singh",
-                        "Sarfaraj Alam", "Rakesh Pandey", "Jatin Bansal", "Yogesh Chawdhary",
+                        "Sarfaraj Alam", "Rakesh Pandey", "Jatin Bansal", "Yogesh Chaudhary",
                         "Raghav Binani", "Ashok Kumar","Ritik Kumar","Shudhanshu Gupta",
                         "Vikash Goyal" ,"Vikash Saini", "Sidhartha Basista", "Aditya Bansal"};
     int n =keys.size();
